@@ -41,5 +41,3 @@ models:
       materialized: table
     staging:
       materialized: view
-  all_dates
-    materialized: table
